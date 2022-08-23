@@ -3,7 +3,7 @@
 ### 🚀About Me
 🎓 I decided to change direction and find my place in the IT-sphere. I'm a hardworking and flexible person who is open to change. I believe I’m a fast learner and a good team player. I guess a combination of these qualities and skills will make me a good fit.
 
-   I'm currently **looking for a job as a Frontend React Developer!**
+  <!-- I'm currently **looking for a job as a Frontend React Developer!** -->
 
 <!-- 🌱 I’m currently learning Node.js. -->
 
